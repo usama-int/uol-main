@@ -6,6 +6,8 @@ export default function Signin() {
     <>
     <div>Signin to continue
     </div>
+    <div>Signin to continue
+    </div>
     <SigninWithGoogleBtn/>
     </>
 
